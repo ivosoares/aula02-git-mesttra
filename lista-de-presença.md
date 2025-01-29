@@ -1,6 +1,6 @@
 01 - Ivonaldo Soares
 
-02 - nilson eduardo santos de souza
+02 - Nilson Eduardo Santos de Souza
 
 03 - Raine Rocha da Conceição Santos
 
