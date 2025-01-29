@@ -40,3 +40,5 @@
 17 -  Rennam Victor Cabral de Faria
 
 09 - Andrielly Patrícia Silva Araújo
+
+18 - Luis Filipe Alves Araujo
