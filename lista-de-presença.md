@@ -26,6 +26,8 @@
 
 17 -  Rennam Victor Cabral de Faria
 
+18 - Yago Porto
+
 09 - Andrielly Patrícia Silva Araújo
 
 
@@ -33,5 +35,3 @@
 14 - Rennam Victor Cabral de Faria
 
 
-
-17 - Yago Porto
