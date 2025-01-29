@@ -16,6 +16,7 @@
 
 08- Miriam Dos Santos Santos 
 
+<<<<<<< HEAD
 09 - Andrielly Patrícia Silva Araújo
 
 10 - Marcos Vinicius Melo dos Anjos
@@ -26,3 +27,8 @@
 
 
 
+=======
+11 - Alexandro Sousa de Brito
+
+09 - Andrielly Patrícia Silva Araújo
+>>>>>>> 1471f98c5c862d3838609bbe7696049039c2a2d9
