@@ -19,3 +19,5 @@
 11 - Alexandro Sousa de Brito
 
 09 - Andrielly Patrícia Silva Araújo
+
+10 - Camille Vitoria dos Reis Silva
