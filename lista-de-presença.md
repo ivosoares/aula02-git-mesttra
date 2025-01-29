@@ -1,7 +1,5 @@
 01 - Ivonaldo Soares
 
-
-
 02 - nilson eduardo santos de souza
 
 03 - Raine Rocha da Conceição Santos
@@ -17,3 +15,5 @@
 08- Miriam Dos Santos Santos 
 
 09 - Andrielly Patrícia Silva Araújo
+
+10 - Ivonaldo Soares
