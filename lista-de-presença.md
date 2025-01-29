@@ -79,3 +79,9 @@
 22 - Luan Nascimento
 
 23 - Jorge Luis
+
+
+
+
+
+30 - Lucas Vinícius de Oliveira
