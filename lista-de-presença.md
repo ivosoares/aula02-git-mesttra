@@ -26,6 +26,7 @@
 
 14 -  Rennam Victor Cabral de Faria
 
+<<<<<<< HEAD
 15 - Andrielly Patrícia Silva Araújo
 
 16 - José Victor Venetillo
@@ -33,3 +34,15 @@
 17 - Luan Nascimento
 
 18 - Rennam Victor Cabral de Faria
+=======
+15 - Luis Filipe Alves Araujo
+
+16 - Luan Nascimento
+
+17 - Rennam Victor Cabral de Faria
+12 - Luan Nascimento
+
+13 - Rennam Victor Cabral de Faria
+
+14 - Maria da Silva
+>>>>>>> c95ff5f262532ed433b0512ceef3e5fadbadb8df
