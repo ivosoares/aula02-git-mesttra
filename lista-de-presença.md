@@ -24,6 +24,12 @@
 
 13 - Felipe Ferreira de Andrade
 
+17 -  Rennam Victor Cabral de Faria
+
+09 - Andrielly Patrícia Silva Araújo
+
+
+12 - Luan Nascimento
 14 - Rennam Victor Cabral de Faria
 
 15 - Maria da Silva
