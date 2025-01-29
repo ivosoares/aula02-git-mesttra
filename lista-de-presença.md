@@ -1,6 +1,6 @@
 01 - Ivonaldo Soares
 
-02 - nilson eduardo santos de souza
+02 - Nilson Eduardo Santos de Souza
 
 03 - Raine Rocha da Conceição Santos
 
@@ -16,32 +16,20 @@
 
 09 - Andrielly Patrícia Silva Araújo
 
-10 - Ivonaldo Soares
+10 - Marcos Vinicius Melo dos Anjos
 
 11 - Alexandro Sousa de Brito
 
-<<<<<<< HEAD
-09 - Andrielly Patrícia Silva Araújo
+12 - Joseph da Costa Ribeiro
 
+13 - Felipe Ferreira de Andrade
 
+14 -  Rennam Victor Cabral de Faria
 
+18 - Yago Porto
 
+12 - Luan Nascimento
 
+14 - Rennam Victor Cabral de Faria
 
-
-
-=======
-15 - Joseph da costa ribeiro
-
-16 - Felipe Ferreira de Andrade
-
-17 - Matheus Henrique de Jesus Leal
->>>>>>> 823dc059c927d49e933d70a3bd0c037bcd5a13e0
-
-
-
-
-
-
-
-19 - Camille Vitória dos Reis Silva
+20 - Camille Vitória dos Reis Silva
