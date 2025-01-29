@@ -12,11 +12,11 @@
 
 07 - Maria Leticia Florençano do Nascimento
 
-08 - Miriam Dos Santos Santos 
+08 - Miriam Dos Santos Santos
 
 09 - Andrielly Patrícia Silva Araújo
 
-10 - Marcos Vinicius Melo dos Anjos
+10 - Ivonaldo Soares
 
 11 - Alexandro Sousa de Brito
 
@@ -24,18 +24,20 @@
 
 13 - Felipe Ferreira de Andrade
 
-14 -  Rennam Victor Cabral de Faria
+14 - Rennam Victor Cabral de Faria
 
-15 - Luis Filipe Alves Araujo
+15 - Andrielly Patrícia Silva Araújo
 
-16 - Luan Nascimento
+16 - José Victor Venetillo
 
-17 - Rennam Victor Cabral de Faria
-
-12 - Luan Nascimento
-
-13 - Rennam Victor Cabral de Faria
-
-14 - Maria da Silva
+17 - Luan Nascimento
 
 18 - Wermerson Thiago Vieira da Silva
+
+19 - Caio Cesar Assis Souza
+
+20 - Luiz Felipe dos Santos Reis da Silva
+
+21 - Camille Vitória dos Reis Silva
+
+23 - Rodrigo Torres Pinheiro
