@@ -28,8 +28,8 @@
 
 09 - Andrielly Patrícia Silva Araújo
 
-
 12 - Luan Nascimento
-14 - Rennam Victor Cabral de Faria
 
-15 - Maria da Silva
+13 - Rennam Victor Cabral de Faria
+
+14 - Maria da Silva
