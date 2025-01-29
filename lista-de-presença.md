@@ -12,7 +12,7 @@
 
 07 - Maria Leticia Florençano do Nascimento
 
-08 - Miriam Dos Santos Santos 
+08 - Miriam Dos Santos Santos
 
 09 - Andrielly Patrícia Silva Araújo
 
@@ -34,7 +34,7 @@
 
 21 - Camille Vitória dos Reis Silva
 
-14 -  Rennam Victor Cabral de Faria
+14 - Rennam Victor Cabral de Faria
 
 15 - Andrielly Patrícia Silva Araújo
 
@@ -55,4 +55,3 @@
 21 - Luiz Felipe dos Santos Reis da Silva
 
 22 - Luan Nascimento
-
