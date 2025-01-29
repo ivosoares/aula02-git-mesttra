@@ -7,3 +7,5 @@
 03 - Raine Rocha da Conceição Santos
 
 04 - Eduardo Lima da Silva
+
+05 - João Vitor Lima Magalhães
