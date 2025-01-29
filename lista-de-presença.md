@@ -1,3 +1,5 @@
+20 - Luiz Felipe dos Santos Reis da Silva
+
 01 - Ivonaldo Soares
 
 02 - nilson eduardo santos de souza
@@ -25,6 +27,12 @@
 12 - Joseph da costa ribeiro
 
 13 - Felipe Ferreira de Andrade
+
+17 -  Rennam Victor Cabral de Faria
+
+09 - Andrielly Patrícia Silva Araújo
+
+14 - Rennam Victor Cabral de Faria
 
 14 -  Rennam Victor Cabral de Faria
 
