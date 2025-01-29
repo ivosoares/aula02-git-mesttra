@@ -17,3 +17,5 @@
 09 - Andrielly Patrícia Silva Araújo
 
 10 - Ivonaldo Soares
+
+11 - Alexandro Sousa de Brito
