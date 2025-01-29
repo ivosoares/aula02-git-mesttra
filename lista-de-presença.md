@@ -20,8 +20,16 @@
 
 11 - Alexandro Sousa de Brito
 
-15 - Joseph da costa ribeiro
+12 - Joseph da costa ribeiro
 
-16 - Felipe Ferreira de Andrade
+13 - Felipe Ferreira de Andrade
 
-17 - José Victor Venetillo
+14 -  Rennam Victor Cabral de Faria
+
+15 - Andrielly Patrícia Silva Araújo
+
+16 - José Victor Venetillo
+
+17 - Luan Nascimento
+
+18 - Rennam Victor Cabral de Faria
