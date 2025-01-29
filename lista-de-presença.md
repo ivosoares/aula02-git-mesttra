@@ -11,3 +11,5 @@
 05 - João Vitor Lima Magalhães
 
 06 - Stefanny Pereira de Araujo Oliveira
+
+07 - Maria Leticia Florençano do Nascimento
