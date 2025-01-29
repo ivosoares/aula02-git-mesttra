@@ -26,8 +26,6 @@
 
 14 - Rennam Victor Cabral de Faria
 
-14 - Rennam Victor Cabral de Faria
-
 15 - Andrielly Patrícia Silva Araújo
 
 16 - Luan Nascimento
