@@ -24,13 +24,15 @@
 
 13 - Felipe Ferreira de Andrade
 
-17 -  Rennam Victor Cabral de Faria
+14 -  Rennam Victor Cabral de Faria
 
 18 - Yago Porto
 
 09 - Andrielly Patrícia Silva Araújo
 
+16 - Luan Nascimento
 
+17 - Rennam Victor Cabral de Faria
 12 - Luan Nascimento
 14 - Rennam Victor Cabral de Faria
 
