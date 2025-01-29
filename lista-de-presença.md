@@ -15,3 +15,5 @@
 07 - Maria Leticia Florençano do Nascimento
 
 08- Miriam Dos Santos Santos 
+
+09- Alexandro Sousa de Brito
