@@ -22,8 +22,6 @@
 
 11 - Alexandro Sousa de Brito
 
-09 - Andrielly Patrícia Silva Araújo
-
 12 - Joseph da costa ribeiro
 
 13 - Felipe Ferreira de Andrade
