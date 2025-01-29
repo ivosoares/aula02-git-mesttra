@@ -20,6 +20,13 @@
 
 10 - Ivonaldo Soares
 
+
+
+
+
+
+
+
 11 - Alexandro Sousa de Brito
 
 09 - Andrielly Patrícia Silva Araújo
@@ -30,6 +37,12 @@
 
 17 -  Rennam Victor Cabral de Faria
 
+<<<<<<< HEAD
+23 - Rodrigo Torres Pinheiro
+
+
+09 - Andrielly Patrícia Silva Araújo
+=======
 09 - Andrielly Patrícia Silva Araújo
 
 14 - Rennam Victor Cabral de Faria
