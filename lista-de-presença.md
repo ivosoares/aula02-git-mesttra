@@ -22,4 +22,8 @@
 
 11 - Alexandro Sousa de Brito
 
-12 - Rennam Victor Cabral de Faria
+15 - Joseph da costa ribeiro
+
+16 - Felipe Ferreira de Andrade
+
+17 -  Rennam Victor Cabral de Faria
