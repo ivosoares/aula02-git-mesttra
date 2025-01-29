@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 20 - Luiz Felipe dos Santos Reis da Silva
 
+=======
+>>>>>>> d8d78004602256943206627356c77aa4ea95a5a1
 01 - Ivonaldo Soares
 
 02 - nilson eduardo santos de souza
@@ -14,7 +17,7 @@
 
 07 - Maria Leticia Florençano do Nascimento
 
-08 - Miriam Dos Santos Santos 
+08 - Miriam Dos Santos Santos
 
 09 - Andrielly Patrícia Silva Araújo
 
@@ -26,35 +29,36 @@
 
 13 - Felipe Ferreira de Andrade
 
-17 -  Rennam Victor Cabral de Faria
+12 - Luan Nascimento
 
 23 - Rodrigo Torres Pinheiro
 
 09 - Andrielly Patrícia Silva Araújo
 
+<<<<<<< HEAD
 09 - Andrielly Patrícia Silva Araújo
 
 14 - Rennam Victor Cabral de Faria
 
 14 -  Rennam Victor Cabral de Faria
+=======
+14 - Rennam Victor Cabral de Faria
+
+21 - Camille Vitória dos Reis Silva
+
+14 - Rennam Victor Cabral de Faria
+>>>>>>> d8d78004602256943206627356c77aa4ea95a5a1
 
 15 - Andrielly Patrícia Silva Araújo
 
 16 - José Victor Venetillo
 
-17 - Luan Nascimento
-
-18 - Rennam Victor Cabral de Faria
-
 15 - Luis Filipe Alves Araujo
-
-18 - Yago Porto
-
-09 - Andrielly Patrícia Silva Araújo
 
 16 - Luan Nascimento
 
 17 - Rennam Victor Cabral de Faria
+<<<<<<< HEAD
 
 12 - Luan Nascimento
 
@@ -64,3 +68,15 @@
 
 19 - Caio Cesar Assis Souza
 
+=======
+
+18 - Yago Porto
+
+19 - Caio Cesar Assis Souza
+
+20 - Maria da Silva
+
+21 - Luiz Felipe dos Santos Reis da Silva
+
+22 - Luan Nascimento
+>>>>>>> d8d78004602256943206627356c77aa4ea95a5a1
