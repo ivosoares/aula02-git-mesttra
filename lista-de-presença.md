@@ -1,11 +1,6 @@
-# <<<<<<< HEAD
-
-20 - Luiz Felipe dos Santos Reis da Silva
-
 01 - Ivonaldo Soares
 
-> > > > > > > dcfab10886f3d670239628025a9754710aab902a
-> > > > > > > 02 - Nilson Eduardo Santos de Souza
+02 - Nilson Eduardo Santos de Souza
 
 03 - Raine Rocha da Conceição Santos
 
