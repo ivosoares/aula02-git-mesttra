@@ -1,6 +1,6 @@
 01 - Ivonaldo Soares
 
-02 - Nilson eduardo santos de souza
+02 - Nilson Eduardo Santos de Souza
 
 03 - Raine Rocha da Conceição Santos
 
@@ -20,7 +20,7 @@
 
 11 - Alexandro Sousa de Brito
 
-12 - Joseph da costa ribeiro
+12 - Joseph da Costa Ribeiro
 
 13 - Felipe Ferreira de Andrade
 
