@@ -26,8 +26,5 @@
 
 16 - Felipe Ferreira de Andrade
 
-<<<<<<< HEAD
 17 -  Rennam Victor Cabral de Faria
-=======
-17 - Matheus Henrique de Jesus Leal
->>>>>>> 823dc059c927d49e933d70a3bd0c037bcd5a13e0
+
