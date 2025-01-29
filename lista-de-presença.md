@@ -40,4 +40,9 @@
 
 21 - Camille Vitória dos Reis Silva
 
+22 - Luan Nascimento
+
 23 - Rodrigo Torres Pinheiro
+
+24 - Jorge Luis
+
