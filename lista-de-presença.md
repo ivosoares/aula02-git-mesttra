@@ -14,7 +14,30 @@
 
 07 - Maria Leticia Florençano do Nascimento
 
-08- Miriam Dos Santos Santos 
+08 - Miriam Dos Santos Santos 
+
+09 - Andrielly Patrícia Silva Araújo
+
+10 - Ivonaldo Soares
+
+09 - Andrielly Patrícia Silva Araújo
+
+10 - Marcos Vinicius Melo dos Anjos
+
+
+
+
+
+
+
+=======
+11 - Alexandro Sousa de Brito
+
+15 - Joseph da costa ribeiro
+
+16 - Felipe Ferreira de Andrade
+
+17 -  Rennam Victor Cabral de Faria
 
 09 - Andrielly Patrícia Silva Araújo
 
