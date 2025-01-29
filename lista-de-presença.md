@@ -31,3 +31,8 @@
 16 - Luan Nascimento
 
 17 - Rennam Victor Cabral de Faria
+12 - Luan Nascimento
+
+13 - Rennam Victor Cabral de Faria
+
+14 - Maria da Silva
