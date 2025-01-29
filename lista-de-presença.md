@@ -26,6 +26,14 @@
 
 12 - Luan Nascimento
 
+23 - Rodrigo Torres Pinheiro
+
+09 - Andrielly Patrícia Silva Araújo
+
+14 - Rennam Victor Cabral de Faria
+
+21 - Camille Vitória dos Reis Silva
+
 14 -  Rennam Victor Cabral de Faria
 
 15 - Andrielly Patrícia Silva Araújo
