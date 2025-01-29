@@ -1,6 +1,6 @@
 01 - Ivonaldo Soares
 
-02 - Nilson Eduardo Santos de Souza
+02 - nilson eduardo santos de souza
 
 03 - Raine Rocha da Conceição Santos
 
@@ -16,12 +16,12 @@
 
 09 - Andrielly Patrícia Silva Araújo
 
-10 - Marcos Vinicius Melo dos Anjos
+10 - Ivonaldo Soares
 
 11 - Alexandro Sousa de Brito
 
-12 - Joseph da Costa Ribeiro
+15 - Joseph da costa ribeiro
 
-13 - Felipe Ferreira de Andrade
+16 - Felipe Ferreira de Andrade
 
-14 - Rennam Victor Cabral de Faria
+17 - José Victor Venetillo
