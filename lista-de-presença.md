@@ -9,3 +9,5 @@
 04 - Eduardo Lima da Silva
 
 05 - João Vitor Lima Magalhães
+
+06 - Stefanny Pereira de Araujo Oliveira
