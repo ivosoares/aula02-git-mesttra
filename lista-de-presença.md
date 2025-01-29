@@ -1,7 +1,5 @@
 01 - Ivonaldo Soares
 
-
-
 02 - nilson eduardo santos de souza
 
 03 - Raine Rocha da Conceição Santos
@@ -14,7 +12,11 @@
 
 07 - Maria Leticia Florençano do Nascimento
 
-08- Miriam Dos Santos Santos 
+08 - Miriam Dos Santos Santos 
+
+09 - Andrielly Patrícia Silva Araújo
+
+10 - Ivonaldo Soares
 
 <<<<<<< HEAD
 09 - Andrielly Patrícia Silva Araújo
@@ -31,4 +33,3 @@
 11 - Alexandro Sousa de Brito
 
 09 - Andrielly Patrícia Silva Araújo
->>>>>>> 1471f98c5c862d3838609bbe7696049039c2a2d9
