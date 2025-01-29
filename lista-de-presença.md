@@ -20,7 +20,7 @@
 
 11 - Alexandro Sousa de Brito
 
-
+12 - Wermerson Thiago Vieira da Silva
 
 
 15 - Joseph da costa ribeiro
