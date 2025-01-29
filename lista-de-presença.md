@@ -17,3 +17,5 @@
 11 - Alexandro Sousa de Brito
 
 09 - Andrielly Patrícia Silva Araújo
+
+12 - Caio Cesar Assis Souza
