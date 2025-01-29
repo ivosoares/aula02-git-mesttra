@@ -16,4 +16,6 @@
 
 08- Miriam Dos Santos Santos 
 
-09- Alexandro Sousa de Brito
+11 - Alexandro Sousa de Brito
+
+09 - Andrielly Patrícia Silva Araújo
