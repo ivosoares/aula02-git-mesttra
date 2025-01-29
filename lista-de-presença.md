@@ -26,3 +26,13 @@
 
 17 -  Rennam Victor Cabral de Faria
 
+<<<<<<< HEAD
+=======
+09 - Andrielly Patrícia Silva Araújo
+
+12 - Luan Nascimento
+
+13 - Rennam Victor Cabral de Faria
+
+14 - Maria da Silva
+>>>>>>> 6ad12a3a3b39e496e982e0b755f1f5eced1cbf9e
