@@ -1,3 +1,9 @@
+## Aula sobre GIT
+
+Na aula do dia 29/08, com o Professor **Ivo Júnior**, fala sobre o uso do Git e a premissa do GitFlow
+
+---
+
 01 - Ivonaldo Soares
 
 02 - Nilson Eduardo Santos de Souza
