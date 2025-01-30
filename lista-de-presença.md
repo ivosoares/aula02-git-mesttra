@@ -2,7 +2,7 @@
 
 01 - Ivonaldo Soares
 
-02 - nilson eduardo santos de souza
+02 - Nilson Eduardo Santos de Souza
 
 03 - Raine Rocha da Conceição Santos
 
@@ -36,7 +36,7 @@
 
 14 - Rennam Victor Cabral de Faria
 
-14 - Rennam Victor Cabral de Faria
+14 -  Rennam Victor Cabral de Faria
 
 14 - Rennam Victor Cabral de Faria
 
@@ -92,10 +92,6 @@
 >>>>>>> 4f9f2b52b6e405e5b2235d919e15a09205bbaf7a
 =======
 
-12 - Luan Nascimento
-
-14 - Rennam Victor Cabral de Faria
-
 14 - Maria da Silva
 
 19 - Caio Cesar Assis Souza
@@ -110,9 +106,13 @@
 
 23 - Jorge Luis
 
+<<<<<<< HEAD
 
 
 
 
 30 - Lucas Vinícius de Oliveira
 >>>>>>> 73bbc91d1a6e3bc3ce2dbd0cf768cb8487b4c694
+=======
+30 - Lucas Vinícius de Oliveira
+>>>>>>> e5d988344d0752d505e3695d7764438f8b53b2d6
