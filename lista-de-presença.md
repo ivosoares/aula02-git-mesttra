@@ -107,6 +107,7 @@
 23 - Jorge Luis
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -116,3 +117,8 @@
 =======
 30 - Lucas Vinícius de Oliveira
 >>>>>>> e5d988344d0752d505e3695d7764438f8b53b2d6
+=======
+30 - Lucas Vinícius de Oliveira
+
+31 - Caio Soares
+>>>>>>> 8e168af7ca72812af930d65ee834786c68c653b4
