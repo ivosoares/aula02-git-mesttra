@@ -1,10 +1,14 @@
-20 - Luiz Felipe dos Santos Reis da Silva
+## Aula sobre GIT
+
+Na aula do dia 29/08, com o Professor **Ivo Júnior**, fala sobre o uso do Git e a premissa do GitFlow
+
+---
 
 01 - Ivonaldo Soares
 
 02 - Nilson Eduardo Santos de Souza
 
-03 - Raine Rocha 
+03 - Raine Rocha
 
 04 - Eduardo Lima da Silva
 
@@ -25,52 +29,18 @@
 12 - Joseph da costa ribeiro
 
 13 - Felipe Ferreira de Andrade
-
-17 - Rennam Victor Cabral de Faria
-
-23 - Rodrigo Torres Pinheiro
-
-09 - Andrielly Patrícia Silva Araújo
-
-09 - Andrielly Patrícia Silva Araújo
-
 14 - Rennam Victor Cabral de Faria
-
-14 -  Rennam Victor Cabral de Faria
-
-14 - Rennam Victor Cabral de Faria
-
-21 - Camille Vitória dos Reis Silva
-
-14 - Rennam Victor Cabral de Faria
-
 15 - Andrielly Patrícia Silva Araújo
-
 16 - José Victor Venetillo
 
 15 - Luis Filipe Alves Araujo
 
-18 - Yago Porto
-
-09 - Andrielly Patrícia Silva Araújo
-
 16 - Luan Nascimento
 
 17 - Rennam Victor Cabral de Faria
-
-12 - Luan Nascimento
-
-14 - Rennam Victor Cabral de Faria
-
-14 - Maria da Silva
+18 - Yago Porto
 
 19 - Caio Cesar Assis Souza
-
-14 - Maria da Silva
-
-19 - Caio Cesar Assis Souza
-
-23 - Vinicius Borges de Araujo
 
 20 - Maria da Silva
 
@@ -80,16 +50,14 @@
 
 23 - Jorge Luis
 
-30 - Lucas Vinícius de Oliveira
+24 - Rodrigo Torres Pinheiro
 
-30 - Lucas Vinícius de Oliveira
+25 - Lucas Vinícius de Oliveira
 
-30 - Lucas Vinícius de Oliveira
+26 - Caio Soares
 
-31 - Caio Soares
+27 - Miriã Moreno
 
-32 - Miriã Moreno
+28 - Magno Kelly de Azevedo
 
-33 - Magno Kelly de Azevedo
-
-34 - Hyngred Menezes
+29 - Hyngred Menezes
