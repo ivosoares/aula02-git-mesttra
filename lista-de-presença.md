@@ -4,7 +4,7 @@
 
 02 - Nilson Eduardo Santos de Souza
 
-03 - Raine Rocha da Conceição Santos
+03 - Raine Rocha 
 
 04 - Eduardo Lima da Silva
 
@@ -50,6 +50,10 @@
 
 15 - Luis Filipe Alves Araujo
 
+18 - Yago Porto
+
+09 - Andrielly Patrícia Silva Araújo
+
 16 - Luan Nascimento
 
 17 - Rennam Victor Cabral de Faria
@@ -78,6 +82,14 @@
 
 30 - Lucas Vinícius de Oliveira
 
+30 - Lucas Vinícius de Oliveira
+
+30 - Lucas Vinícius de Oliveira
+
 31 - Caio Soares
 
 32 - Miriã Moreno
+
+33 - Magno Kelly de Azevedo
+
+34 - Hyngred Menezes
