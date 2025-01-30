@@ -37,13 +37,12 @@
 14 - Rennam Victor Cabral de Faria
 
 14 -  Rennam Victor Cabral de Faria
-=======
+
 14 - Rennam Victor Cabral de Faria
 
 21 - Camille Vitória dos Reis Silva
 
 14 - Rennam Victor Cabral de Faria
->>>>>>> d8d78004602256943206627356c77aa4ea95a5a1
 
 15 - Andrielly Patrícia Silva Araújo
 
@@ -63,8 +62,6 @@
 
 19 - Caio Cesar Assis Souza
 
-=======
-
 14 - Maria da Silva
 
 19 - Caio Cesar Assis Souza
@@ -78,9 +75,5 @@
 22 - Luan Nascimento
 
 23 - Jorge Luis
-
-
-
-
 
 30 - Lucas Vinícius de Oliveira
